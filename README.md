@@ -1,2 +1,2 @@
-# crud_php-mysql
+# CRUD em PHP/MySQL
  Modelo de CRUD em PHP/MySQL
